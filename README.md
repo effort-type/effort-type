@@ -20,9 +20,9 @@
 | Research Activities |       2022.05.25.      | 특허 출원(공유 기반 스마트 주차 관리 시스템) | Univ LAB.Software Engineering                                |
 | External Activities |        2022.07.11 ~</br>2022.10.06.| 2022 블록체인 & 핀테크 개발자 과정 수료| 부산광역시 일자리경제과 |
 | Internal Activities |        2022.08.01 ~</br>2022.08.06.| 2022 동의대학교 고교 써머스쿨 교사| Dong-eui University |
-| Internal Activities |        2022.09. ~</br>2022.11.| 2022학년도 통합 성과 경진대회 장려상| Dong-eui University |
-| Internal Activities |        2022.09. ~</br>2022.11.| 2022학년도 2학기 캡스톤디자인 경진대회 우수상| Dong-eui University |
-| Internal Activities |        2022.09. ~</br>2022.12.| [PROJECT::실습실 온라인 예약 서비스](https://github.com/orgs/Lab-Reservation-System/repositories)| Dong-eui University |
+| Internal Activities |        2022.09.   ~</br>2022.11.   | 2022학년도 통합 성과 경진대회 장려상| Dong-eui University |
+| Internal Activities |        2022.09.   ~</br>2022.11.   | 2022학년도 2학기 캡스톤디자인 경진대회 우수상| Dong-eui University |
+| Internal Activities |        2022.09.   ~</br>2022.12.   | [PROJECT::실습실 온라인 예약 서비스](https://github.com/orgs/Lab-Reservation-System/repositories)| Dong-eui University |
 | External Activities |        2023.01.02 ~</br>2023.02.24.| 2023 방학중 SW·AI교육 캠프</br>운영사업 안전관리요원| 교육부-한국과학창의재단</br>Dong-eui University |
 
 
@@ -56,7 +56,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>&nbsp;
 
 
