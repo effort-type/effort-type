@@ -23,7 +23,7 @@
 | Internal Activities |        2022.09. ~</br>2022.11.| 2022학년도 통합 성과 경진대회 장려상| Dong-eui University |
 | Internal Activities |        2022.09. ~</br>2022.11.| 2022학년도 2학기 캡스톤디자인 경진대회 우수상| Dong-eui University |
 | Internal Activities |        2022.09. ~</br>2022.12.| [PROJECT::실습실 온라인 예약 서비스](https://github.com/orgs/Lab-Reservation-System/repositories)| Dong-eui University |
-| External Activities |        2023.01.02 ~</br>| 2023 방학중 SW·AI교육 캠프</br>운영사업 안전관리요원| 교육부-한국과학창의재단</br>Dong-eui University |
+| External Activities |        2023.01.02 ~</br>2023.02.24.| 2023 방학중 SW·AI교육 캠프</br>운영사업 안전관리요원| 교육부-한국과학창의재단</br>Dong-eui University |
 
 
 ## 📈 Analysis
@@ -47,7 +47,6 @@
 ### Backend & Skills
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 
@@ -59,7 +58,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=black"/></a>&nbsp;
 
 
 
