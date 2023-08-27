@@ -15,6 +15,7 @@
 
 |        Type         |          Date           |                           Content                           | Organization                                                  |
 | :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
+| Internal Activities |       2018.03.    ~</br>2023.08.25.| DEU Computer Software Engineering Bachelor<br/>(컴퓨터소프트웨어공학과 학사) | Univ LAB.Software Engineering                                |
 | Internal Activities |       2021.06.    ~</br>           | DEU Computer Software Engineering Lab<br/>(컴퓨터소프트웨어공학과 연구실) | Univ LAB.Software Engineering                                |
 | External Activities |       2022.03.03.      | 「ICT & 스마트 헬스케어 기반 융복합 스포츠산업」</br>아이디어 경진대회 상위 10팀 선정 | [부산테크노파크](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
 | Research Activities |       2022.05.25.      | 특허 출원(공유 기반 스마트 주차 관리 시스템) | Univ LAB.Software Engineering                                |
@@ -24,6 +25,7 @@
 | Internal Activities |        2022.09.   ~</br>2022.11.   | 2022학년도 2학기 캡스톤디자인 경진대회 우수상| Dong-eui University |
 | Internal Activities |        2022.09.   ~</br>2022.12.   | [PROJECT::실습실 온라인 예약 서비스](https://github.com/orgs/Lab-Reservation-System/repositories)| Dong-eui University |
 | External Activities |        2023.01.02 ~</br>2023.02.24.| 2023 방학중 SW·AI교육 캠프</br>운영사업 안전관리요원| 교육부-한국과학창의재단</br>Dong-eui University |
+| Internal Activities |       2023.09.    ~</br>           | DEU Computer Software Engineering Master<br/>(컴퓨터소프트웨어공학과 석사) | Univ LAB.Software Engineering                                |
 
 
 ## 📈 Analysis
@@ -40,8 +42,6 @@
 
 ### Language  
 ![Java](https://img.shields.io/badge/Java-FE2E2E?style=flat-square&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### Backend & Skills
