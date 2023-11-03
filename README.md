@@ -25,7 +25,9 @@
 | Internal Activities |        2022.09.   ~</br>2022.11.   | 2022학년도 2학기 캡스톤디자인 경진대회 우수상| Dong-eui University |
 | Internal Activities |        2022.09.   ~</br>2022.12.   | [PROJECT::실습실 온라인 예약 서비스](https://github.com/orgs/Lab-Reservation-System/repositories)| Dong-eui University |
 | External Activities |        2023.01.02 ~</br>2023.02.24.| 2023 방학중 SW·AI교육 캠프</br>운영사업 안전관리요원| 교육부-한국과학창의재단</br>Dong-eui University |
+| Certificate |        2023.09.01   | 정보처리기사 취득| Q-net |
 | Internal Activities |       2023.09.    ~</br>           | DEU Computer Software Engineering Graduate Student<br/>(컴퓨터소프트웨어공학과 석사) | Univ LAB.Software Engineering                                |
+| Internal Activities |        2023.11.03   | 저널 논문 (치과교정용 스마트 페이스마스크를 활용한 스마트 교정 관리 시스템 설계 및 구현) 투고  | KIICE 한국정보통신학회 |
 
 
 ## 📈 Analysis
