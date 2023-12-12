@@ -28,7 +28,7 @@
 | Certificate |        2023.09.01   | 정보처리기사 취득| Q-net |
 | Internal Activities |       2023.09.    ~</br>           | DEU Computer Software Engineering Graduate Student<br/>(컴퓨터소프트웨어공학과 석사) | Univ LAB.Software Engineering                                |
 | Research Activities |        2023.11.03   | 저널 논문 투고<br/>치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현 | 한국정보통신학회 |
-| External Activities |       2023.11.24.      | 「제3회 소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회」</br>아이디어 제안 부문 최우수상 (한국소방안전원장상) | [소방안전 빅데이터 플랫폼]([https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR]) |
+| External Activities |       2023.11.24.      | 「소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회」</br>아이디어 제안 부문 최우수상 (한국소방안전원장상) | [소방안전 빅데이터 플랫폼]([https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR]) |
 
 
 ## 📈 Analysis
