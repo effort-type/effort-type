@@ -31,7 +31,7 @@
 | Internal Activities |        2023.09.21.   | 「의료 보건 생활대학 아이디어 & 발명 경진대회」</br>2등 (산학협력단장상)| Dong-eui University |
 | Research Activities |        2023.11.03   | 저널 논문 투고<br/>「치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현」| 한국정보통신학회 |
 | External Activities |       2023.11.24.      | 「소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회」</br>아이디어 제안 부문 최우수상 (한국소방안전원장상) | [소방안전 빅데이터 플랫폼]([https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR]) |
-| Research Activities |        2023.11.03   | KCI 논문 게제<br/>[「치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현」](http://doi.org/10.6109/jkiice.2024.28.1.97)| 한국정보통신학회 |
+| Research Activities |        2023.11.03   | KCI 논문 게재<br/>[「치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현」](http://doi.org/10.6109/jkiice.2024.28.1.97)| 한국정보통신학회 |
 
 ## 📈 Analysis
 <div align=center>
