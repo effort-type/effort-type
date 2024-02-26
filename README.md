@@ -61,7 +61,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>&nbsp;
-<img src="[https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white](https://camo.githubusercontent.com/8e5468d985a00c9814f4f66fbe1f88f524df046a093032887f032cd3558cae47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c6520436f6c61622d4639414230303f7374796c653d666c61742d737175617265266c6f676f3d476f6f676c6520436f6c6162266c6f676f436f6c6f723d7768697465)"/></a>&nbsp;
+![PyCharm](https://camo.githubusercontent.com/ac5a68e6c6ad944558bba544687dc7c3a047a6749a1142a8572e15fa13ee4faf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652d4646303030303f7374796c653d666c61742d737175617265266c6f676f3d41646f6265266c6f676f436f6c6f723d7768697465)
 
 
 
