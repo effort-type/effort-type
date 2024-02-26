@@ -51,9 +51,9 @@
 
 ### Backend & Skills
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![Django](https://camo.githubusercontent.com/ece750b9cc12db0b7457e0cc01ad344252464a2b0a871cf33ceb57c6e55d7017/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 
 
 ### Tools
@@ -62,6 +62,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
 <img src="https://img.shields.io/badge/Apache NetBeans IDE-1B6AC6?style=flat-square&logo=Apache NetBeans IDE&logoColor=white"/></a>&nbsp;
 ![Google Colab](https://camo.githubusercontent.com/8e5468d985a00c9814f4f66fbe1f88f524df046a093032887f032cd3558cae47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c6520436f6c61622d4639414230303f7374796c653d666c61742d737175617265266c6f676f3d476f6f676c6520436f6c6162266c6f676f436f6c6f723d7768697465)
+![PyCharm](https://camo.githubusercontent.com/232416141478dd7b5fd48c4b6b71dbb8635c0f286554c8a8a46cfc40a5c4de0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079436861726d2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d5079436861726d266c6f676f436f6c6f723d7768697465)
 
 
 
