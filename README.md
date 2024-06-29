@@ -70,6 +70,8 @@
 
 
 ### Backend & Skills
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Django](https://camo.githubusercontent.com/ece750b9cc12db0b7457e0cc01ad344252464a2b0a871cf33ceb57c6e55d7017/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
