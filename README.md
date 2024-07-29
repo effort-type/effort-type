@@ -38,6 +38,7 @@
 |          2023.09.21.           | 「의료 보건 생활대학 아이디어 & 발명 경진대회」</br>2등 (산학협력단장상)|                                               Dong-eui University                                               |
 |          2023.11.24.           | 「소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회」</br>아이디어 제안 부문 최우수상 (한국소방안전원장상) | [소방안전 빅데이터 플랫폼](https://www.btp.or.kr/?action=BD0000M&pagecode=P000000296&command=View&idx=13672&language=KR) |
 |          2024.05.24.           | 「제 55회 한국정보통신학회 춘계종합학술대회 - 일반 세션」</br> LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템 </br> 우수 논문 선정| [한국정보통신학회](https://kiice.org/141) |
+|          2024.07.29.           | 「제 5회 제5회 디지털 신기술 아이디어 경진대회」</br> 오픈소스 거대언어모델(Large Language Model, LLM)을 활용한 회사 길라잡이 챗봇 시스템 </br> 우수상 (한국정보통신진흥협회장상) | [한국정보통신진흥협회(KAIT)]([https://kiice.org/141](https://www.baeulang.kr/bbs/board.php?bo_table=notice&wr_id=75)) |
 
 
 ## 📃 Certificate
