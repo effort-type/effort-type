@@ -18,15 +18,24 @@
 | 2024.01.   </br>~ |              거대언어모델(LLM)의 정형 데이터 인식률을 높이는 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~ | LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
 
-## 📰 Paper
+## 📰 Paper(Journal)
+|          Type          |    Date    |                       Title                       |     Organization     |
+|:----------------------:|:----------:|:-------------------------------------------------:|:--------------------:|
+|   KCI 저널 </br>논문 투고    | 2023.11.03. |  치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현  |       한국정보통신학회       |
+|   KCI 저널 </br>논문 게재    | 2024.01.17. |  치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현  |       한국정보통신학회       |
+|   KCI 저널 </br>논문 투고    | 2024.07.29. |  치아 교정 유지 장치 보관함을 활용한<br/>스마트 교정 관리 시스템 설계 및 구현  |       한국통신학회       |
+|   KCI 저널 </br>논문 투고    | 2024.08.02. |  거대언어모델(LLM) 기반 RAG 시스템의<br/>표 데이터 인식률을 높이기 위한 최적의 초매개변수 조합  |       한국정보통신학회       |
+
+## 📰 Paper(Conference)
 |          Type          |    Date    |                       Title                       |     Organization     |
 |:----------------------:|:----------:|:-------------------------------------------------:|:--------------------:|
 | 학술대회</br>프로시딩</br>(춘계) | 2023.06.02. |      치과교정용 스마트 페이스마스크 기반의 교정 관리 시스템 설계 및 구현       |       한국산업정보학회       |
-|   KCI 저널 </br>논문 투고    | 2023.11.03. |  치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현  |       한국정보통신학회       |
-|   KCI 저널 </br>논문 게재    | 2024.01.17. |  치과교정용 스마트 페이스마스크를 활용한<br/>스마트 교정 관리 시스템 설계 및 구현  |       한국정보통신학회       |
 |    종합학술대회</br>(춘계)     | 2024.05.23. </br>~</br> 2024.05.25. |      LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템      | 한국정보통신학회</br>(인천 송도) |
 |    종합학술대회</br>(춘계)     | 2024.05.23. </br>~</br> 2024.05.25. | 거대언어모델(LLM)의 표 데이터 인식률을 높이는</br>표 속성 깊이 기반 전처리 기법 | 한국정보통신학회</br>(인천 송도) |
 |    종합학술발표회</br>(하계)    | 2024.06.19. </br>~</br> 2024.06.22. |        치아 교정용 유지 장치 보관함을 활용한 교정 관리 시스템 설계         |  한국통신학회</br>(제주도)  |
+|    2024년 인공지능 및 응용 워크숍    | 2024.08.20. |        질의응답(QnA) 시스템에서의 앙상블 검색 기술의</br>비율 조절에 따른 성능 비교         |  한국정보통신학회</br>(부산)  |
+|    2024년 인공지능 및 응용 워크숍    | 2024.08.20. |        검색증강생성(RAG)에서의 한국어 형태소 분석기</br>성능 비교         |  한국정보통신학회</br>(부산)  |
+|    2024년 인공지능 및 응용 워크숍    | 2024.08.20. |        검색증강생성(RAG)에서의 BM25/BM42 성능 비교         |  한국정보통신학회</br>(부산)  |
 
 ## 🏆 Contest
 
@@ -86,39 +95,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-
-<!--|Type|Date|Contents|Organization|
-|Student|2017.03 ~ 2023.2|Department of Computer Software Engineering|Dongeui University| -->
-<!--h2 align="center"> Todo💦 </h2>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" /-->
-
-<!--
-**effort-type/effort-type** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-**effort-type/effort-type** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
