@@ -6,8 +6,7 @@
 </h1>
 <h3 align ="center"> Climbing to new heights </h3>
 <p align ="center"> <strong>거대언어모델((Large Language Model, LLM)</strong>의 <strong>정형데이터</strong> 인식률을 높이기 위해 연구하고 있는 대학원 석사과정 정민수입니다. </p>
-<p align ="center"> 제 연구는 거대언어모델을 중심으로, 특히 <strong>문서 임베딩</strong> 기술을 <br>세부적으로 연구하여 언어 처리의 정확성을 높이는 데 기여하고자 합니다. </p>
-<p align ="center"> 창의적인 아이디어와 체계적인 실험을 통해, 새로운 솔루션을 찾고 </br>이를 실용적인 애플리케이션에 적용할 수 있는 능력을 갖춘 연구자가 되겠습니다. </p>
+<p align ="center"> <strong>거대언어모델의 표 기반 질의응답 정확도를 높이기 위한 전처리 기법</strong>strong>과 검색증강생성 기반의 질의응답 시스템을 연구하고 있는 정민수입니다. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=effort-type&label=PROFILE+VIEWS" alt="effort-type"> 
 <hr>
