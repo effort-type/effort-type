@@ -5,8 +5,7 @@
   </a>
 </h1>
 <h3 align ="center"> Climbing to new heights </h3>
-<p align ="center"> <strong>거대언어모델((Large Language Model, LLM)</strong>의 <strong>정형데이터</strong> 인식률을 높이기 위해 연구하고 있는 대학원 석사과정 정민수입니다. </p>
-<p align ="center"> <strong>거대언어모델의 표 기반 질의응답 정확도를 높이기 위한 전처리 기법</strong>strong>과 검색증강생성 기반의 질의응답 시스템을 연구하고 있는 정민수입니다. </p>
+<p align ="center"> <strong>거대언어모델의 표 기반 질의응답 정확도를 높이기 위한 전처리 기법</strong>과 검색증강생성 기반의 질의응답 시스템을 연구하고 있는 정민수입니다. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=effort-type&label=PROFILE+VIEWS" alt="effort-type"> 
 <hr>
