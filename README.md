@@ -13,8 +13,9 @@
 ## 💻 Research
 |              Date              |                             Content                              |                         Organization                          |
 |:------------------------------:|:----------------------------------------------------------------:|:-------------------------------------------------------------:|
-| 2024.01.   </br>~ |              거대언어모델(LLM)의 정형 데이터 인식률을 높이는 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
-| 2024.01.   </br>~ | LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
+| 2024.10.   </br>~ |              거대언어모델(LLM)의 표 데이터 성능을 높이는 재귀 기반 표 속성 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~2024.10 |              거대언어모델(LLM)의 정형 데이터 인식률을 높이는 표 속성 깊이 기반 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~2024.11 | LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
 
 ## 📰 Paper(Journal)
 |          Type          |    Date    |                       Title                         |     Organization     |
@@ -56,9 +57,10 @@
 |    Date     |                           Content                           |                         Organization                          |
 |:-----------:| :----------------------------------------------------------: |:-------------------------------------------------------------:|
 | 2022.05.25. | 특허 출원<br/>「공유 기반 스마트 주차 관리 시스템」</br>(10-2022-0064219)|                 Univ LAB.Software Engineering                 |
+| 2024.10.31. | 특허 등록<br/>「공유 기반 스마트 주차 관리 시스템」</br>(10-2726384)|                 Univ LAB.Software Engineering                 |
 | 2023.05.31. | 특허 출원<br/>「자율주차용 이동장치를 활용한 스마트 주차장 시스템」</br>(10-2023-0069932)|                 Univ LAB.Software Engineering                 |
-| 2023.09.01. | 정보처리기사 취득|                             Q-net                             |
 |       2024.01.24.      | 특허 출원<br/>「스마트 치아교정기 및 교정기 보관케이스」</br>(10-2024-0011118)|                 Univ LAB.Software Engineering                 |
+| 2023.09.01. | 정보처리기사 취득|                             Q-net                             |
 
 
 ## 📆 Experience
