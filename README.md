@@ -57,11 +57,12 @@
 ## 📃 Certificate
 |    Date     |                           Content                           |                         Organization                          |
 |:-----------:| :----------------------------------------------------------: |:-------------------------------------------------------------:|
-| 2022.05.25. | 특허 출원<br/>「공유 기반 스마트 주차 관리 시스템」</br>(10-2022-0064219)|                 Univ LAB.Software Engineering                 |
-| 2024.10.31. | 특허 등록<br/>「공유 기반 스마트 주차 관리 시스템」</br>(10-2726384)|                 Univ LAB.Software Engineering                 |
-| 2023.05.31. | 특허 출원<br/>「자율주차용 이동장치를 활용한 스마트 주차장 시스템」</br>(10-2023-0069932)|                 Univ LAB.Software Engineering                 |
-|       2024.01.24.      | 특허 출원<br/>「스마트 치아교정기 및 교정기 보관케이스」</br>(10-2024-0011118)|                 Univ LAB.Software Engineering                 |
+| 2022.05.25. | 특허 출원<br/>「공유 기반 스마트 주차 관리 시스템」</br>|                 Univ LAB.Software Engineering                 |
+| 2023.05.31. | 특허 출원<br/>「자율주차용 이동장치를 활용한 스마트 주차장 시스템」</br>|                 Univ LAB.Software Engineering                 |
+|       2024.01.24.      | 특허 출원<br/>「스마트 치아교정기 및 교정기 보관케이스」</br>|                 Univ LAB.Software Engineering                 |
 | 2023.09.01. | 정보처리기사 취득|                             Q-net                             |
+| 2024.10.31. | 특허 등록<br/>「공유 기반 스마트 주차 관리 시스템」</br>|                 Univ LAB.Software Engineering                 |
+| 2024.10.31. | 특허 등록<br/>「거대언어모델의 표 데이터 인식률을 높이는 표 속성 깊이 기반 표 데이터 전처리 방법 및 장치」</br>|                 Univ LAB.Software Engineering                 |
 
 
 ## 📆 Experience
