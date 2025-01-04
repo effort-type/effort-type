@@ -71,8 +71,8 @@
 
 |                Date                |                                     Content                                      |                         Organization                          |
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-|      2023.09.    </br>~</br>       |   DEU Computer Software Engineering</br>Graduate Student<br/>(컴퓨터소프트웨어공학과 석사)    |                      Dong-eui University                      |
-|       2021.06.   </br>~</br>       |           DEU Computer Software Engineering Lab<br/>(컴퓨터소프트웨어공학과 연구실)            |                 Univ LAB.Software Engineering                 |
+|      2023.09.    </br>~</br>2025.02.       |   DEU Computer Software Engineering</br>Graduate Student<br/>(컴퓨터소프트웨어공학과 석사)    |                      Dong-eui University                      |
+|       2021.06.   </br>~</br>       |           Computer Software Engineering and NLP Lab<br/>(컴퓨터소프트웨어공학 및 자연어처리 연구실)            |                 Univ LAB.Software Engineering                 |
 | 2018.03.    </br>~</br>2023.08.25. | DEU Computer Software Engineering<br/>Undergraduate Student<br/>(컴퓨터소프트웨어공학과 학사) |                      Dong-eui University                      |
 |   2021.06.</br>~</br>2023.06.   |                   코딩 교육 봉사 동아리 BIT (주강사 및 부회장)</br>컴퓨터소프트웨어공학과                   |                      Dong-eui University                      |
 | 2022.07.11. </br>~</br>2022.10.06.  |                           「2022 블록체인 & 핀테크 개발자 과정 수료」                            |                         부산광역시 일자리경제과                          |
