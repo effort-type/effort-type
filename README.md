@@ -19,7 +19,7 @@
 | 2024.07.   </br>~2024.12 | 거대언어모델(LLM) 기반의 질의응답(QnA) 시스템 개발              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~2024.12 |              거대언어모델의 표 데이터 성능을 높이는 표 속성 깊이 기반</br>전처리 방법론 및 기법 연구              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~</br>2024.10 |              거대언어모델의 표 데이터 성능을 높이는 구분자 기반 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
-| 2024.01.   </br>~</br>2024.11 | LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~</br>2024.11 | LangChain을 이용한 거대언어모델(LLM) 기반의</br> 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
 
 ## 📰 Paper(Journal)
 |          Type          |    Date    |                       Title                         |     Organization     |
