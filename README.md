@@ -15,7 +15,7 @@
 |:------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------:|
 | 2025.04.   </br>~</br> | 항공 및 국방 무기체계 소프트웨어 취약점 탐지를 위한 AI 기반 정적분석 기술 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
 | 2025.03.   </br>~</br> | (현대자동차 미래기술공모) 웹모니터링 기반의 자동차 클레임요소 예측 시스템 |                 Univ NLP-LAB.Artificial Intelligence                 |
-| 2025.01.   </br>~</br>2025.12 | 정부 및 지자체 민원에 특화된 거대언어모델(LLM, Large Language Model) 기반의</br> 질의응답 시스템 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2025.01.   </br>~</br>2025.12 | 정부 및 지자체 민원에 특화된 거대언어모델(LLM, Large Language Model) </br>기반의 질의응답 시스템 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
 | 2024.07.   </br>~2024.12 | 거대언어모델(LLM) 기반의 질의응답(QnA) 시스템 개발              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~2024.12 |              거대언어모델의 표 데이터 성능을 높이는 표 속성 깊이 기반</br>전처리 방법론 및 기법 연구              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~</br>2024.10 |              거대언어모델의 표 데이터 성능을 높이는 구분자 기반 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
