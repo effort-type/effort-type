@@ -13,18 +13,19 @@
 ## 💻 Research
 |              Date              |                             Content                              |                         Organization                          |
 |:------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------:|
-| 2024.01.   </br>~ |              거대언어모델의 표 데이터 성능을 높이는 표 속성 깊이 기반 전처리 방법론 및 기법 연구              |                 Univ LAB.Software Engineering                 |
+| 2025.04.   </br>~</br> | 항공 및 국방 무기체계 소프트웨어 취약점 탐지를 위한 AI 기반 정적분석 기술 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2025.03.   </br>~</br> | (현대자동차 미래기술공모) 웹모니터링 기반의 자동차 클레임요소 예측 시스템 |                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2025.01.   </br>~</br>2025.12 | 정부 및 지자체 민원에 특화된 거대언어모델(LLM, Large Language Model) 기반의 질의응답 시스템 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2024.07.   </br>~2024.12 | 거대언어모델(LLM) 기반의 질의응답(QnA) 시스템 개발              |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~2024.12 |              거대언어모델의 표 데이터 성능을 높이는 표 속성 깊이 기반 전처리 방법론 및 기법 연구              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~</br>2024.10 |              거대언어모델의 표 데이터 성능을 높이는 구분자 기반 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
 | 2024.01.   </br>~</br>2024.11 | LangChain을 이용한 거대언어모델(LLM) 기반의 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
 
 ## 📰 Paper(Journal)
 |          Type          |    Date    |                       Title                         |     Organization     |
 |:----------------------:|:----------:|:---------------------------------------------------:|:----------------------:|
-|   KCI</br>투고    | 2023.11. |  치과교정용 스마트 페이스마스크를 활용한 스마트 교정 관리 시스템 설계 및 구현  |       한국정보통신학회       |
 |   KCI</br>게재    | 2024.01. |  치과교정용 스마트 페이스마스크를 활용한 스마트 교정 관리 시스템 설계 및 구현  |       한국정보통신학회       |
-|   KCI</br>투고    | 2024.07. |  치아 교정 유지 장치 보관함을 활용한 스마트 교정 관리 시스템 설계 및 구현  |       한국통신학회       |
 |   KCI</br>게재    | 2024.12. |  치아 교정 유지 장치 보관함을 활용한 스마트 교정 관리 시스템 설계 및 구현  |       한국통신학회       |
-|   KCI</br>투고    | 2024.08. |  거대언어모델(LLM) 기반 RAG 시스템의<br/>표 데이터 인식률을 높이기 위한 최적의 초매개변수 조합  |       한국정보통신학회       |
 |   KCI</br>게재    | 2024.11. |  거대언어모델(LLM) 기반 RAG 시스템의<br/>표 데이터 인식률을 높이기 위한 최적의 초매개변수 조합  |       한국정보통신학회       |
 
 ## 📰 Paper(Conference)
@@ -60,17 +61,18 @@
 | 2022.05.25. | 특허 출원<br/>「공유 기반 스마트 주차 관리 시스템」</br>(10-2022-0064219)|                 Univ LAB.Software Engineering                 |
 | 2023.05.31. | 특허 출원<br/>「자율주차용 이동장치를 활용한 스마트 주차장 시스템」</br>(10-2023-0069932)|                 Univ LAB.Software Engineering                 |
 |       2024.01.24.      | 특허 출원<br/>「스마트 치아교정기 및 교정기 보관케이스」</br>(10-2024-0011118)|                 Univ LAB.Software Engineering                 |
-| 2023.09.01. | 정보처리기사 취득|                             Q-net                             |
 | 2024.10.31. | 특허 등록<br/>「공유 기반 스마트 주차 관리 시스템」</br>(10-2726384)|                 Univ LAB.Software Engineering                 |
 | 2024.09.02. | 특허 출원<br/>「거대언어모델의 표 데이터 인식률을 높이는 </br>표 속성 깊이 기반 표 데이터 전처리 방법 및 장치」</br>(10-2024-0118219)|                 Univ LAB.Software Engineering                 |
 | 2024.09.02. | 특허 출원<br/>「랭체인을 이용한 거대언어모델 기반의 질의응답 방법 및 장치」</br>(10-2024-0118218)|                 Univ LAB.Software Engineering                 |
 | 2024.10.30. | 특허 출원<br/>「거대 언어 모델을 이용한 표 데이터 기반의 검색증강생성을 적용한 </br>질의 응답의 응답 평가 방법 및 이를 이용한 장치」</br>(10-2024-0150484)|                 Univ LAB.Software Engineering                 |
+| 2023.09.01. | 정보처리기사 취득|                             Q-net                             |
 
 
 ## 📆 Experience
 
 |                Date                |                                     Content                                      |                         Organization                          |
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+|      2025.03.    </br>~</br>       |   DEU Computer Artificial Intelligence</br>Ph.D. Student<br/>(인공지능학과 박사)    |                      Dong-eui University                      |
 |      2023.09.    </br>~</br>2025.02.       |   DEU Computer Software Engineering</br>Graduate Student<br/>(컴퓨터소프트웨어공학과 석사)    |                      Dong-eui University                      |
 |       2021.06.   </br>~</br>       |           Computer Software Engineering and NLP Lab<br/>(컴퓨터소프트웨어공학 및 자연어처리 연구실)            |                 Dong-eui University                 |
 | 2018.03.    </br>~</br>2023.08.25. | DEU Computer Software Engineering<br/>Undergraduate Student<br/>(컴퓨터소프트웨어공학과 학사) |                      Dong-eui University                      |
