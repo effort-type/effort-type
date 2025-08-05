@@ -13,13 +13,13 @@
 ## 💻 Research
 |              Date              |                             Content                              |                         Organization                          |
 |:------------------------------:|:-------------------------------------------------------------------:|:-------------------------------------------------------------:|
-| 2025.04.   </br>~</br> | 항공 및 국방 무기체계 소프트웨어 취약점 탐지를 위한</br> AI 기반 정적분석 기술 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
-| 2025.03.   </br>~</br> | (현대자동차 미래기술공모) 웹모니터링 기반의 자동차 클레임요소 예측 시스템 |                 Univ NLP-LAB.Artificial Intelligence                 |
-| 2025.01.   </br>~</br>2025.12 | 정부 및 지자체 민원에 특화된 거대언어모델(LLM, Large Language Model) </br>기반의 질의응답 시스템 개발 |                 Univ NLP-LAB.Artificial Intelligence                 |
-| 2024.07.   </br>~2024.12 | 거대언어모델(LLM) 기반의 질의응답(QnA) 시스템 개발              |                 Univ LAB.Software Engineering                 |
-| 2024.01.   </br>~2024.12 |              거대언어모델의 표 데이터 성능을 높이는 표 속성 깊이 기반</br>전처리 방법론 및 기법 연구              |                 Univ LAB.Software Engineering                 |
-| 2024.01.   </br>~</br>2024.10 |              거대언어모델의 표 데이터 성능을 높이는 구분자 기반 전처리 기법 연구              |                 Univ LAB.Software Engineering                 |
-| 2024.01.   </br>~</br>2024.11 | LangChain을 이용한 거대언어모델(LLM) 기반의</br> 질의응답 시스템 성능 향상 연구 |                 Univ LAB.Software Engineering                 |
+| 2025.04.   </br>~</br> | 항공 및 국방 무기체계 소프트웨어 취약점 탐지를 위한</br> AI 기반 정적분석 기술 개발</br>전일제(Full-time) 학생연구원 |                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2025.03.   </br>~</br> | (현대자동차 미래기술공모) 웹모니터링 기반의 자동차 클레임요소 예측 시스템</br>실무책임자|                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2025.01.   </br>~</br>2025.12 | 정부 및 지자체 민원에 특화된 거대언어모델(LLM, Large Language Model) </br>기반의 질의응답 시스템 개발</br>전일제(Full-time) 학생연구원 |                 Univ NLP-LAB.Artificial Intelligence                 |
+| 2024.07.   </br>~2024.12 | 거대언어모델(LLM) 기반의 질의응답(QnA) 시스템 개발</br>전일제(Full-time) 학생연구원              |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~2024.12 |              거대언어모델의 표 데이터 성능을 높이는 표 속성 깊이 기반</br>전처리 방법론 및 기법 연구</br>전일제(Full-time) 학생연구원              |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~</br>2024.10 |              거대언어모델의 표 데이터 성능을 높이는 구분자 기반 전처리 기법 연구</br>전일제(Full-time) 학생연구원              |                 Univ LAB.Software Engineering                 |
+| 2024.01.   </br>~</br>2024.11 | LangChain을 이용한 거대언어모델(LLM) 기반의</br> 질의응답 시스템 성능 향상 연구</br>전일제(Full-time) 학생연구원 |                 Univ LAB.Software Engineering                 |
 
 ## 📰 Paper(Journal)
 |          Type          |    Date    |                       Title                         |     Organization     |
@@ -39,6 +39,8 @@
 |    인공지능 및 응용</br>워크숍    | 2024.08.20. |        검색증강생성(RAG)에서의 한국어 형태소 분석기</br>성능 비교         |  한국정보통신학회  |
 |    인공지능 및 응용</br>워크숍    | 2024.08.20. |        검색증강생성(RAG)에서의 BM25/BM42 성능 비교         |  한국정보통신학회  |
 |    종합학술대회    | 2024.10.25. |        GPTScore를 이용한 표 데이터 기반의 검색증강생성(RAG)</br>질의응답 시스템 응답 평가         |  한국정보통신학회  |
+|    종합학술대회    | 2025.05.22. |        검색증강생성(RAG) 기반 표 질의응답 성능을 높이는</br>한국어 조사 체계 기반 전처리 기법         |  한국정보통신학회  |
+|    한국컴퓨터종합학술대회    | 2024.10.25. |        지도식 미세조정(SFT)을 이용한 한국어 조사 체계 기반의</br> 표 데이터 전처리 시스템         |   한국정보과학회  |
 
 ## 🏆 Contest
 
@@ -72,7 +74,7 @@
 
 |                Date                |                                     Content                                      |                         Organization                          |
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-|      2025.03.    </br>~</br>       |   DEU Computer Artificial Intelligence</br>Ph.D. Student<br/>(인공지능학과 박사)    |                      Dong-eui University                      |
+|      2025.03.    </br>~</br>       |   DEU Computer Artificial Intelligence</br>Ph.D. Student<br/>(인공지능학과 박사과정)    |                      Dong-eui University                      |
 |      2023.09.    </br>~</br>2025.02.       |   DEU Computer Software Engineering</br>Graduate Student<br/>(컴퓨터소프트웨어공학과 석사)    |                      Dong-eui University                      |
 |       2021.06.   </br>~</br>       |           Computer Software Engineering and NLP Lab<br/>(컴퓨터소프트웨어공학 및 자연어처리 연구실)            |                 Dong-eui University                 |
 | 2018.03.    </br>~</br>2023.08.25. | DEU Computer Software Engineering<br/>Undergraduate Student<br/>(컴퓨터소프트웨어공학과 학사) |                      Dong-eui University                      |
