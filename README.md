@@ -55,6 +55,7 @@
 |          2024.07.29.           | 「제 5회 제5회 디지털 신기술 아이디어 경진대회」</br> 오픈소스 거대언어모델(Large Language Model, LLM)을 활용한 </br>회사 길라잡이 챗봇 시스템 </br> 우수상 (한국정보통신진흥협회장상) | [한국정보통신진흥협회(KAIT)]([https://www.baeulang.kr/bbs/board.php?bo_table=notice&wr_id=75]) |
 |          2024.08.20.           | 「2024년 인공지능 및 응용 워크숍」</br>검색증강생성(RAG)에서의 한국어 형태소 분석기 성능 비교 </br> 우수 논문 선정| [한국정보통신학회](https://kiice.org/141) |
 |          2024.10.25.           | 「2024년 추계종합학술대회」</br>GPTScore를 이용한 표 데이터 기반의 검색증강생성(RAG)</br>질의응답 시스템 응답 평가 </br> 우수 논문 선정| [한국정보통신학회](https://kiice.org/141) |
+|          2025.07.30.           | 「2025년 한국컴퓨터종합학술대회」</br>지도식 미세조정(SFT)을 이용한</br> 한국어 조사 체계 기반의 표 데이터 전처리 시스템"</br> 우수발표논문상 수상| [한국정보과학회]([https://kiice.org/141](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2732)) |
 
 
 ## 📃 Certificate
