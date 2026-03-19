@@ -75,7 +75,8 @@
 
 |                Date                |                                     Content                                      |                         Organization                          |
 |:----------------------------------:|:--------------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-|      2025.03.    </br>~</br>       |   DEU Computer Artificial Intelligence</br>Ph.D. Student<br/>(인공지능학과 박사과정)    |                      Dong-eui University                      |
+|      2026.03.    </br>~</br>       |   KMOU Data Informatics</br>Ph.D. Student<br/>(데이터정보학과 박사과정)    |                      NATIONAL Korea Maritime & Ocean University                      |
+|      2025.03.    </br>~</br>2026.02       |   DEU Artificial Intelligence</br>Ph.D. Student<br/>(인공지능학과 박사과정)    |                      Dong-eui University                      |
 |      2023.09.    </br>~</br>2025.02.       |   DEU Computer Software Engineering</br>Graduate Student<br/>(컴퓨터소프트웨어공학과 석사)    |                      Dong-eui University                      |
 |       2021.06.   </br>~</br>       |           Computer Software Engineering and NLP Lab<br/>(컴퓨터소프트웨어공학 및 자연어처리 연구실)            |                 Dong-eui University                 |
 | 2018.03.    </br>~</br>2023.08.25. | DEU Computer Software Engineering<br/>Undergraduate Student<br/>(컴퓨터소프트웨어공학과 학사) |                      Dong-eui University                      |
